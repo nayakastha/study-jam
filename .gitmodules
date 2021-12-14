@@ -1,0 +1,3 @@
+[submodule "DogglersApp"]
+	path = DogglersApp
+	url = https://github.com/OkoroKelvin/DogglersApp.git
