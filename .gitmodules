@@ -1,3 +1,9 @@
 [submodule "DogglersApp"]
 	path = DogglersApp
 	url = https://github.com/OkoroKelvin/DogglersApp.git
+[submodule "android-basics-kotlin-words-app"]
+	path = android-basics-kotlin-words-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-words-app.git
+[submodule "android-basics-kotlin-dessert-clicker-app"]
+	path = android-basics-kotlin-dessert-clicker-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-dessert-clicker-app.git
