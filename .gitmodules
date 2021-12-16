@@ -7,3 +7,6 @@
 [submodule "android-basics-kotlin-dessert-clicker-app"]
 	path = android-basics-kotlin-dessert-clicker-app
 	url = https://github.com/google-developer-training/android-basics-kotlin-dessert-clicker-app.git
+[submodule "android-basics-kotlin-unscramble-app"]
+	path = android-basics-kotlin-unscramble-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-unscramble-app.git
