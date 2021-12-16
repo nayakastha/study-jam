@@ -10,3 +10,6 @@
 [submodule "android-basics-kotlin-unscramble-app"]
 	path = android-basics-kotlin-unscramble-app
 	url = https://github.com/google-developer-training/android-basics-kotlin-unscramble-app.git
+[submodule "android-basics-kotlin-cupcake-app"]
+	path = android-basics-kotlin-cupcake-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-cupcake-app.git
